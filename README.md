@@ -1,2 +1,3 @@
-# glitch_class_remixes
- 
+# Typewriter text example
+
+A typewriter text example.
